@@ -1,4 +1,4 @@
-# \# RishiVeda Assist
+# \# 🌿 RishiVeda Assist
 
 # 
 
@@ -6,7 +6,9 @@
 
 # 
 
-# This initiative was inspired by real-world challenges faced by Ayurvedic doctors and therapists in managing treatment scheduling, documentation, and communication. The goal is to create digital solutions that simplify these processes while preserving the essence of Ayurvedic practice.
+# This initiative was inspired by real-world challenges faced by Ayurvedic doctors and therapists in managing treatment scheduling, documentation, and communication.  
+
+# The goal is to create digital solutions that simplify these processes while preserving the essence of Ayurvedic practice.
 
 # 
 
@@ -18,23 +20,33 @@
 
 # 
 
-# \- \*\*Doctor Portal.png\*\* — Low-fidelity wireframe for doctor’s interface
+# \- \[`Doctor Portal.png`](designs/Doctor%20Portal.png) — Low-fidelity wireframe for doctor’s interface  
 
-# \- \*\*Home Screen.png\*\* — App entry and login mockup
+# \- \[`Home Screen.png`](designs/Home%20Screen.png) — App entry and login mockup  
 
-# \- \*\*RishiVeda\_Assist\_User\_Research\_and\_Low\_Fidelity\_Design.pdf\*\* — Complete user research summary and design flow document
+# \- \[`RishiVeda\_Assist\_User\_Research\_and\_Low\_Fidelity\_Design.pdf`](designs/RishiVeda\_Assist\_User\_Research\_and\_Low\_Fidelity\_Design.pdf) — Complete user research summary and design flow document  
 
 # 
 
-\### 🔍 Design Previews
+# ---
 
+# 
 
+# \## 🔍 Design Previews
 
-!\[Doctor Portal](https://raw.githubusercontent.com/venkyy23/RishiVeda-Assist/main/Doctor%20Portal.png)
+# 
 
-!\[Home Screen](https://raw.githubusercontent.com/venkyy23/RishiVeda-Assist/main/Home%20Screen.png)
+# \### Doctor Portal  
 
+# !\[Doctor Portal](designs/Doctor%20Portal.png)
 
+# 
+
+# \### Home Screen  
+
+# !\[Home Screen](designs/Home%20Screen.png)
+
+# 
 
 # ---
 
@@ -44,17 +56,19 @@
 
 # 
 
-# This repository documents the early design phase of \*RishiVeda Assist\*. It includes manual low-fidelity prototypes created in Figma, representing user journeys and interface ideas before high-fidelity development.
+# This repository documents the early design phase of \*RishiVeda Assist\*.  
+
+# It includes manual low-fidelity prototypes created in Figma, representing user journeys and interface ideas before high-fidelity development.
 
 # 
 
 # Future updates may include:
 
-# \- Interactive prototypes
+# \- Interactive prototypes  
 
-# \- Information architecture refinements
+# \- Information architecture refinements  
 
-# \- Integration concepts for Ayurvedic hospital workflows
+# \- Integration concepts for Ayurvedic hospital workflows  
 
 # 
 
@@ -66,9 +80,25 @@
 
 # 
 
-# \*\*Venkatesh Nayak\*\*
+# \*\*Venkatesh Nayak\*\*  
 
-# Ayurvedic Doctor | UX Researcher | Student of AI \& Data Science in Healthcare
+# Ayurvedic Doctor · UX Researcher · Student of AI \& Data Science in Healthcare  
 
-# Building bridges between traditional wisdom and digital innovation.
+# \*Building bridges between traditional wisdom and digital innovation.\*
+
+# 
+
+# ---
+
+# 
+
+# \## 🪶 Notes
+
+# 
+
+# These designs represent conceptual explorations made during the UX research stage.  
+
+# They are part of a broader initiative to reimagine Ayurvedic clinical workflows using thoughtful, technology-assisted systems.
+
+
 
