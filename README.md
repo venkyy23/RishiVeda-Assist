@@ -1,2 +1,66 @@
-# RishiVeda-Assist
-Design documentation and manual Figma wireframes for RishiVeda Assist, an Ayurvedic workflow assistant focused on enhancing communication between doctors and therapists.
+# \# RishiVeda Assist
+
+# 
+
+# \*\*RishiVeda Assist\*\* is a UX research and design project focused on improving communication and workflow efficiency in Ayurvedic Panchakarma management.
+
+# 
+
+# This initiative was inspired by real-world challenges faced by Ayurvedic doctors and therapists in managing treatment scheduling, documentation, and communication. The goal is to create digital solutions that simplify these processes while preserving the essence of Ayurvedic practice.
+
+# 
+
+# ---
+
+# 
+
+# \## 📂 Contents
+
+# 
+
+# \- \*\*Doctor Portal.png\*\* — Low-fidelity wireframe for doctor’s interface  
+
+# \- \*\*Home Screen.png\*\* — App entry and login mockup  
+
+# \- \*\*RishiVeda\_Assist\_User\_Research\_and\_Low\_Fidelity\_Design.pdf\*\* — Complete user research summary and design flow document  
+
+# 
+
+# ---
+
+# 
+
+# \## 💡 Purpose
+
+# 
+
+# This repository documents the early design phase of \*RishiVeda Assist\*. It includes manual low-fidelity prototypes created in Figma, representing user journeys and interface ideas before high-fidelity development.
+
+# 
+
+# Future updates may include:
+
+# \- Interactive prototypes  
+
+# \- Information architecture refinements  
+
+# \- Integration concepts for Ayurvedic hospital workflows  
+
+# 
+
+# ---
+
+# 
+
+# \## 🧠 Author
+
+# 
+
+# \*\*Venkatesh Nayak\*\*  
+
+# Ayurvedic Doctor | UX Researcher | Student of AI \& Data Science in Healthcare  
+
+# Building bridges between traditional wisdom and digital innovation.
+
+
+
