@@ -1,108 +1,69 @@
-# \# 🌿 RishiVeda Assist
+# 🌿 RishiVeda Assist
 
-# 
+**RishiVeda Assist** is a UX research and design project focused on improving communication and workflow efficiency in Ayurvedic Panchakarma management.
 
-# \*\*RishiVeda Assist\*\* is a UX research and design project focused on improving communication and workflow efficiency in Ayurvedic Panchakarma management.
+This initiative was inspired by real-world challenges faced by Ayurvedic doctors and therapists in managing treatment scheduling, documentation, and communication.  
+The goal is to create digital solutions that simplify these processes while preserving the essence of Ayurvedic practice.
 
-# 
+---
 
-# This initiative was inspired by real-world challenges faced by Ayurvedic doctors and therapists in managing treatment scheduling, documentation, and communication.  
+## 📂 Contents
 
-# The goal is to create digital solutions that simplify these processes while preserving the essence of Ayurvedic practice.
+- `Doctor Portal.png` — Low-fidelity wireframe for doctor’s interface  
+- `Home Screen.png` — App entry and login mockup  
+- `RishiVeda_Assist_User_Research_and_Low_Fidelity_Design.pdf` — Complete user research summary and design flow document  
 
-# 
+---
 
-# ---
+## 🔍 Design Previews
 
-# 
+<div align="center">
 
-# \## 📂 Contents
+  <h4>Doctor Portal</h4>
+  <img src="designs/Doctor%20Portal.png" width="500"/>
 
-#
+  <h4>Home Screen</h4>
+  <img src="designs/Home%20Screen.png" width="500"/>
 
-### 🔍 Design Previews
+  <p>
+    <a href="designs/RishiVeda_Assist_User_Research_and_Low_Fidelity_Design.pdf">📄 View Full PDF Report</a>
+  </p>
 
-**Doctor Portal**  
-![Doctor Portal](designs/Doctor%20Portal.png)
+</div>
 
-**Home Screen**  
-![Home Screen](designs/Home%20Screen.png)
+---
 
-[📄 View Full PDF Report](designs/RishiVeda_Assist_User_Research_and_Low_Fidelity_Design.pdf)
+## 💡 Purpose
 
-# 
+This repository documents the early design phase of *RishiVeda Assist*.  
+It includes manual low-fidelity prototypes created in Figma, representing user journeys and interface ideas before high-fidelity development.
 
-# ---
+Future updates may include:
+- Interactive prototypes  
+- Information architecture refinements  
+- Integration concepts for Ayurvedic hospital workflows  
 
-# 
+---
 
-# \## 🔍 Design Previews
+## 🧠 Author
 
-# 
+**Venkatesh Nayak**  
+Ayurvedic Doctor · UX Researcher · Student of AI & Data Science in Healthcare  
+*Building bridges between traditional wisdom and digital innovation.*
 
-# \### Doctor Portal  
+---
 
-# !\[Doctor Portal](designs/Doctor%20Portal.png)
+## 🪶 Notes
 
-# 
+These designs represent conceptual explorations made during the UX research stage.  
+They are part of a broader initiative to reimagine Ayurvedic clinical workflows using thoughtful, technology-assisted systems.
 
-# \### Home Screen  
+---
 
-# !\[Home Screen](designs/Home%20Screen.png)
+## 🛠️ Roadmap
 
-# 
-
-# ---
-
-# 
-
-# \## 💡 Purpose
-
-# 
-
-# This repository documents the early design phase of \*RishiVeda Assist\*.  
-
-# It includes manual low-fidelity prototypes created in Figma, representing user journeys and interface ideas before high-fidelity development.
-
-# 
-
-# Future updates may include:
-
-# \- Interactive prototypes  
-
-# \- Information architecture refinements  
-
-# \- Integration concepts for Ayurvedic hospital workflows  
-
-# 
-
-# ---
-
-# 
-
-# \## 🧠 Author
-
-# 
-
-# \*\*Venkatesh Nayak\*\*  
-
-# Ayurvedic Doctor · UX Researcher · Student of AI \& Data Science in Healthcare  
-
-# \*Building bridges between traditional wisdom and digital innovation.\*
-
-# 
-
-# ---
-
-# 
-
-# \## 🪶 Notes
-
-# 
-
-# These designs represent conceptual explorations made during the UX research stage.  
-
-# They are part of a broader initiative to reimagine Ayurvedic clinical workflows using thoughtful, technology-assisted systems.
-
-
-
+- [ ] Add interactive prototype in Figma  
+- [ ] Create patient and therapist interfaces  
+- [ ] Conduct usability testing with Ayurvedic doctors  
+- [ ] Explore integration with hospital EMR systems  
+- [ ] Prepare for open beta of RishiVeda Assist
