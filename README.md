@@ -45,6 +45,12 @@ Future updates may include:
 
 ---
 
+<!-- Banner -->
+<div align="center">
+  <img src="designs/banner.png" alt="RishiVeda Assist Banner" width="100%"/>
+</div>
+
+
 ## 🧠 Author
 
 **Venkatesh Nayak**  
