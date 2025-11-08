@@ -1,3 +1,9 @@
+<!-- Banner -->
+<div align="center">
+  <img src="designs/banner.png" alt="RishiVeda Assist Banner" width="100%"/>
+</div>
+
+
 # 🌿 RishiVeda Assist
 
 **RishiVeda Assist** is a UX research and design project focused on improving communication and workflow efficiency in Ayurvedic Panchakarma management.
@@ -45,17 +51,13 @@ Future updates may include:
 
 ---
 
-<!-- Banner -->
-<div align="center">
-  <img src="designs/banner.png" alt="RishiVeda Assist Banner" width="100%"/>
-</div>
+## 🧠 Authors
 
+**Dr. Venkatesha Nayak B**  
+Ayurvedic Doctor · PGDM in AI & Data Science in Healthcare  
 
-## 🧠 Author
-
-**Venkatesh Nayak**  
-Ayurvedic Doctor · UX Researcher · Student of AI & Data Science in Healthcare  
-*Building bridges between traditional wisdom and digital innovation.*
+**Dr. Vaishnavi K R**  
+Ayurvedic Doctor · PGDM in AI & Data Science in Healthcare  
 
 ---
 
