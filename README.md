@@ -18,13 +18,17 @@
 
 # \## 📂 Contents
 
-# 
+#
 
-# \- \[`Doctor Portal.png`](designs/Doctor%20Portal.png) — Low-fidelity wireframe for doctor’s interface  
+### 🔍 Design Previews
 
-# \- \[`Home Screen.png`](designs/Home%20Screen.png) — App entry and login mockup  
+**Doctor Portal**  
+![Doctor Portal](designs/Doctor%20Portal.png)
 
-# \- \[`RishiVeda\_Assist\_User\_Research\_and\_Low\_Fidelity\_Design.pdf`](designs/RishiVeda\_Assist\_User\_Research\_and\_Low\_Fidelity\_Design.pdf) — Complete user research summary and design flow document  
+**Home Screen**  
+![Home Screen](designs/Home%20Screen.png)
+
+[📄 View Full PDF Report](designs/RishiVeda_Assist_User_Research_and_Low_Fidelity_Design.pdf)
 
 # 
 
