@@ -18,13 +18,23 @@
 
 # 
 
-# \- \*\*Doctor Portal.png\*\* — Low-fidelity wireframe for doctor’s interface  
+# \- \*\*Doctor Portal.png\*\* — Low-fidelity wireframe for doctor’s interface
 
-# \- \*\*Home Screen.png\*\* — App entry and login mockup  
+# \- \*\*Home Screen.png\*\* — App entry and login mockup
 
-# \- \*\*RishiVeda\_Assist\_User\_Research\_and\_Low\_Fidelity\_Design.pdf\*\* — Complete user research summary and design flow document  
+# \- \*\*RishiVeda\_Assist\_User\_Research\_and\_Low\_Fidelity\_Design.pdf\*\* — Complete user research summary and design flow document
 
 # 
+
+\### 🔍 Design Previews
+
+
+
+!\[Doctor Portal](https://raw.githubusercontent.com/venkyy23/RishiVeda-Assist/main/Doctor%20Portal.png)
+
+!\[Home Screen](https://raw.githubusercontent.com/venkyy23/RishiVeda-Assist/main/Home%20Screen.png)
+
+
 
 # ---
 
@@ -40,11 +50,11 @@
 
 # Future updates may include:
 
-# \- Interactive prototypes  
+# \- Interactive prototypes
 
-# \- Information architecture refinements  
+# \- Information architecture refinements
 
-# \- Integration concepts for Ayurvedic hospital workflows  
+# \- Integration concepts for Ayurvedic hospital workflows
 
 # 
 
@@ -56,11 +66,9 @@
 
 # 
 
-# \*\*Venkatesh Nayak\*\*  
+# \*\*Venkatesh Nayak\*\*
 
-# Ayurvedic Doctor | UX Researcher | Student of AI \& Data Science in Healthcare  
+# Ayurvedic Doctor | UX Researcher | Student of AI \& Data Science in Healthcare
 
 # Building bridges between traditional wisdom and digital innovation.
-
-
 
